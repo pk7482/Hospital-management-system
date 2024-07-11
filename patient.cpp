@@ -1,4 +1,3 @@
-
 #include "person.cpp"
 #include "disease.cpp"
 #include<fstream>

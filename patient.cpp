@@ -1,4 +1,4 @@
-KhushiTapariya, [11-07-2024 10:54]
+
 #include "person.cpp"
 #include "disease.cpp"
 #include<fstream>

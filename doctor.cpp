@@ -138,7 +138,7 @@ class doctor: public Person{
                 cout << "\nRecord not found \n";
     }
 
-KhushiTapariya, [11-07-2024 10:56]
+
 void doDoctorRelatedWork() {
       char flag;
       int choice;
